@@ -4528,3 +4528,5 @@ plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/Makintos
 plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/Makintosh/u8ZLGMHomW/862.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,AR: France 24
 plugin://plugin.video.f4mTester/?url=http://pro.satlover.com:58080/live/Makintosh/u8ZLGMHomW/861.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Nova Sport 1
+plugin://plugin.video.f4mTester/?url=http://tv.iptvsports.net:8080/435345345/11111/49.ch&amp;streamtype=TSDOWNLOADER
