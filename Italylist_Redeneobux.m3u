@@ -7,7 +7,7 @@
 
 
 #EXTINF:-1,Rai 1 HD
-http://gameserver5.streamiptv.online/live/falsa1/identita1/217.ts
+plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/217.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,Rai 2 HD
 plugin://plugin.video.f4mTester/?url=http://gameserver5.streamiptv.online/live/falsa1/identita1/218.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,Rai 3 HD
