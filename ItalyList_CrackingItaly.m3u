@@ -1,0 +1,704 @@
+#EXTM3U
+#EXTINF:-1,[COLOR blue][I][B]--- 25-01-2017 ---[/B][/I][/COLOR]
+#EXTINF:-1
+
+#EXTINF:-1,[COLOR blue][I][B]--- Crackingitaly ---[/B][/I][/COLOR]
+#EXTINF:-1
+
+#EXTINF:-1,- - - - - - ITALIA- - - - - - -
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/158.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Rai 1 HD
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/134.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,RAI 1 SD
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/1721.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Rai 2 HD
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/135.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,RAI 2 SD
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/1722.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Rai 3 HD
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/136.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,RAI 3 SD
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/1723.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Rete 4 HD
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/137.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Canale 5 HD
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/138.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Canale 5 Dsl Lente
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/1558.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Italia 1 HD
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/139.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,LA 7
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/327.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,MTV8
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/541.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,RSI LA 1
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/232.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,RSI LA 2
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/233.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,- - - - - - CINEMA - - - - - -
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/159.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Cinema 1 HD
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/1.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Cinema  1 HD (DSL Lente)
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/1579.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Cinema +1 HD
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/2.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Cinema +1 (DSL Lente)
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/1588.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Cinema +24 HD
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/3.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Cinema  24 SD
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/1557.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Cinema Hits HD
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/4.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Cinema HITS (DSL Lente)
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/1587.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Cinema Family HD
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/5.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,CinemaFamily SD
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/1591.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Cinema Family +1 HD
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/6.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Cinema Family  1 HD (DSL Lente)
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/1578.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Cinema Passion HD
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/7.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Cinema Max HD
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/10.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Cinema Max SD
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/1592.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Cinema Max +1 HD
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/11.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ITA - Sky Cinema Max  1 HD Dsl Lente
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/1575.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Cinema Cult HD
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/13.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Cinema Comedy HD
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/9.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Cinema Comedy SD
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/1593.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Cinema Classic HD
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/12.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,PARAMOUNT CHANNEL
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/1639.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,- - - - - - INTRATTENIMENTO - - - - - -
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/160.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky 3D
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/28.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky Uno HD
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/15.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky Uno +1 HD
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/157.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky Uno (DSL Lente)
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/1583.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky Atlantic HD
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/16.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky Atlantic (dsl Lente)
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/1585.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky Atlantic +1 HD
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/234.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Fox HD
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/18.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Fox +1
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/142.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Fox SD
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/1589.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Fox Life HD
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/19.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Fox Life SD
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/1590.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Fox Life +1
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/235.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Fox Crime HD
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/20.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Fox Crime +1
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/236.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Fox Crime (Dsl Lente)
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/1586.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Comedy Central
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/24.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,AXN HD
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/23.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ITA - AXN  HD  Dsl Lente
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/1577.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,AXN +1
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/620.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,AXN Sci-Fi
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/27.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Fox Comedy HD
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/60.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Fox Animation HD
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/25.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Lei
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/26.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Topcrime
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/196.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Classica HD
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/1466.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,CI Crime + Investigation HD
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/21.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Cielo HD
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/198.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Real Time HD
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/529.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,MAN-GA
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/143.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Rai 4
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/535.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Rai Premium
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/532.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Rai Movie
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/534.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,La 5
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/537.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Italia 2
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/536.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IRIS
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/540.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Mediaset Extra
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/543.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,- - - - - - SPORT - - - - - -
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/161.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky Sport 24 HD
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/29.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SKY Sport 24 (DSL Lente)
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/1584.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky Sport 1 HD
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/30.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky Sport 1 Dsl Lente
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/1559.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky Sport 2 HD
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/31.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ITA - Sky Sport 2 HD Dsl Lente
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/1574.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky Sport 3 HD
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/32.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky Sport Plus HD
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/33.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sport Plus SD
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/1560.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SPORT MIX HD
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/2490.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Fox Sports HD
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/35.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FOX SPORT SD
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/1595.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky Sport  F1 HD
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/36.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sport F1 SD
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/1562.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky Sport MotoGP  HD
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/37.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,MOTOGP SD
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/1594.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,EuroSport HD
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/38.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,EuroSport 2 HD
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/39.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Super Tennis HD
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/557.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Bike Channel
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/326.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Rai Sport 1
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/243.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Rai Sport 2
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/244.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Milan Channel
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/41.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,JUVENTUS TV
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/42.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Inter Channel
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/43.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Lazio Style Channel
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/44.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ROMA TV
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/45.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Poker Italia 24
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/191.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,CACCIA e pesca
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/46.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,PESCA & caccia
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/47.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Class Horse TV
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/1460.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,- - - - - - CALCIO - - - - - - -
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/246.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky Supercalcio HD
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/34.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,sky supercalcio SD
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/1561.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky Calcio 1 HD
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/48.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SKY CALCIO 1 SD
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/1482.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky Calcio 2 HD
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/49.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky Calcio 2 Dsl Lente
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/1564.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky Calcio 3 HD
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/50.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky Calcio 3 Dsl Lente
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/1565.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky Calcio 4 HD
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/51.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,CALCIO 4 SD
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/1566.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky Calcio 5 HD
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/52.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,CALCIO 5 SD
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/1567.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky Calcio 6 HD
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/53.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky Calcio 6 SD
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/1568.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky Calcio 7 HD
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/54.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,CALCIO 7 SD
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/1569.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky Calcio 8 HD
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/55.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky Calcio 9
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/1463.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky Calcio 10
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/1462.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky Calcio 11
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/1461.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SKY CALCIO 12
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/1480.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,INFO CHANNEL LEGA PRO C
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/2333.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,SPORTUBE TIME
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/2335.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Taranto - LPC
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/2336.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Messina - LPC
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/2334.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,F. Andria - LPC
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/2332.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Cosenza - LPC
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/2337.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Catania - LPC
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/2338.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,- - - - - - DOCUMENTARI - - - - - -
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/162.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky Arte HD
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/22.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Discovery HD
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/56.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky Discovery channel  1
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/1598.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,NationalGeo HD
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/57.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Discovery Sci HD
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/58.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Discovery T&L HD
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/59.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,History HD
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/61.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,NatGeo Wild HD
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/62.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Nat Geo Wild  1
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/1570.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,NatGeo People HD
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/63.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Gambero Rosso HD
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/147.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Dove TV
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/1597.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,eXplora HD
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/146.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Animal Planet
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/144.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Focus
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/199.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,DMAX
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/204.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ALICE
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/916.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,MARCO POLO
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/917.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,- - - - - - RAGAZZI - - - - - -
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/163.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,DeA Kids
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/67.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,DeA Junior
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/74.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Nickelodeon
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/69.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Cartoon Network
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/65.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Cartoon +1
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/419.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Boomerang
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/66.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Disney Junior
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/70.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Disney Channel HD
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/64.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Disney Channel +1
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/197.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Disney Channel  2
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/1572.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Disney XD HD
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/71.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Disney in English
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/72.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Nick Junior
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/424.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,BABY TV
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/420.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Super!
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/515.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,K2
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/382.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,RAI YOYO
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/470.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,CARTONITO
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/516.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,BOING
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/539.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,PEPPA PIG CHANNEL
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/1481.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,- - - - - - NOTIZIARI - - - - - -
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/164.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Sky TG 24 HD
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/75.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,TG COM 24
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/530.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,RAI NEWS 24
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/533.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,- - - - - - PREMIUM - - - - - -
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/167.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Premium Cinema HD
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/88.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Premium Cinema HD X ADSL Lente
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/1580.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Premium Cinema +24
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/372.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Premium Cinema 2 HD
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/465.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Premium Cinema2  HD X ADSL Lente
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/1581.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Premium Cinema 2 +24
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/466.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Premium Crime HD
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/622.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Premium Crime HD (DSL Lente)
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/1573.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Premium Crime +24
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/116.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Premium Emotion
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/90.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Premium Energy
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/89.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Premium Comedy
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/111.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Premium Stories
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/918.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Premium Joi
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/113.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Studio Universal - Premium
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/112.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Premium Action HD
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/469.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Premium Action HD X ADSL Lente
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/1582.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Premium Action +24
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/115.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,FOR MUSIC
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/542.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,DeejayTV
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/531.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Premium Sport HD
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/468.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Premium Sport Dsl Lente
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/1596.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Premium Sport 2 HD
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/122.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Premium Calcio 1 HD
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/131.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,ITA - Premium Calcio HD Dsl Lente
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/1576.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Premium Napoli Auriemma HD
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/1784.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Premium Calcio 1
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/124.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Premium Calcio 2
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/125.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Premium Calcio 3
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/126.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Premium Calcio 4
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/127.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Premium Calcio 5
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/128.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Premium Calcio 6
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/129.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,--------BEIN SPORT--------
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/2479.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,BEIN SPORT 1 HD
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/2454.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,BEIN SPORT 2 HD
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/2455.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,BEIN SPORT 3 HD
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/2456.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,BEIN SPORT 4 HD
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/2457.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,BEIN SPORT 5 HD
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/2458.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,BEIN SPORT 6 HD
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/2459.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,BEIN SPORT 7 HD
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/2460.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,BEIN SPORT 8 HD
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/2461.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,BEIN SPORT 9 HD
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/2462.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,BEIN SPORT 10 HD
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/2463.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,BEIN SPORT 11 HD
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/2464.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,BEIN SPORT 12 HD
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/2465.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,-------TEDESCHI-------
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/2166.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Heart TV Musica
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/2347.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,DE: Tele 5 HD
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/2346.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,DE: NDR HD
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/2348.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,DE Motorvision TV
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/2349.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Austria 24
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/2350.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,DE Das Erste HD
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/2167.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,DE  ZDF
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/2168.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,DE  RTL HD
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/2169.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,DE  RTL 2
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/2170.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,DE Super RTL HD
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/2171.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,DE  Sixx
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/2172.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,DE  Pro Sieben HD
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/2173.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,DE  SAT. 1 HD
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/2174.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,DE VOX
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/2175.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,DE  Kabel Eins
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/2176.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,DE SRF 1 HD
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/2177.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,DE SRF zwei HD
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/2178.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,DE ARD
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/2179.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,DE  Pro 7 HD
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/2180.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,DE ZDF Kultur
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/2181.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,DE  RTL Nitro
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/2182.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,DE  3Sat
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/2183.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,DE  1-2-3.TV
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/2184.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,DE  ZDF Info
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/2185.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,------ Kino ------
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/2186.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,DE Sky Cinema HD
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/2187.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,DE Sky Cinema  1
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/2188.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,DE Sky Cinema  24 HD
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/2189.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,DE Sky Cinema Family
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/2190.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,DE Sky Cinema Action
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/2191.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,DE Sky Cinema Comedy
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/2192.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,DE Sky Cinema Emotion
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/2193.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,DE Sky Cinema Nostalgie
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/2194.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,DE Sky Cinema Hits
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/2195.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,DE MGM
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/2196.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,DE Sky Kinowelt TV
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/2197.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,DE TNT Film
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/2198.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,DE: Sky 3D HD
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/2199.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,------ UNTERHALTUNG ------
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/2200.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,DE Sky Atlantic
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/2201.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,DE Fox HD
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/2202.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,DE Fox Series
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/2203.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,DE AXN HD
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/2204.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,DE Syfy HD
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/2205.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,DE Sky Krimi
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/2206.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,DE Universal HD
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/2207.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,DE 13th Street HD
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/2208.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,DE TNT Serie HD
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/2209.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,DE E! Enterteinment HD
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/2210.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,DE RTL Crime
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/2211.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,DE RTL Passion
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/2212.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,DE RTL Living HD
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/2213.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,DE DMAX HD
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/2214.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,DE  Sat 1 Gold
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/2215.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,DE Prosieben HD
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/2216.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,DE Romance TV
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/2218.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,DE  HeimatKanal
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/2217.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,DE Welt der Wunder TV
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/2219.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,DE WDR HD
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/2220.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,DE Tagesschau 24
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/2221.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,DE Sky Classica
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/2222.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,DE Pro7 MAXX HD
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/2223.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,DE Goldstar TV
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/2224.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,DE Comedy Central/VIVA
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/2225.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,------SPORT ------
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/2226.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,DE  Sport News HD
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/2227.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,DE Sky Sport 1 HD
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/2228.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,DE Sky Sport 2 HD
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/2229.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,DE Sky Sport Bundesliga 1
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/2230.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,DE Sky Sport Bundesliga 2 HD
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/2231.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,DE Sky Sport Bundesliga 3 HD
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/2232.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,DE Sky Sport Bundesliga 4 HD
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/2233.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,DE Sky Sport Bundesliga 5
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/2234.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,DE Sky Sport Bundesliga 6
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/2235.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,DE Sky Sport Bundesliga 7
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/2236.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,DE Sky Sport Bundesliga 8
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/2237.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,DE Sky Sport Bundesliga 9
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/2238.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,DE Sky Sport News HD
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/2239.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,DE Sky Sport Austria
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/2240.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,DE Sky Eurosport 1
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/2241.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,------KULTUR -----
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/2242.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,DE National Geographic
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/2243.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,DE NatGeo Wild
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/2244.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,DE Discovery HD
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/2245.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,DE  TLC
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/2246.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,DE  History HD
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/2247.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,DE Spiegel Geschichte
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/2248.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,------ KINDER ------
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/2249.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,DE Disney XD
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/2250.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,DE Disney Junior
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/2251.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,DE Junior
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/2252.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,DE Disney Cinemagic
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/2253.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,DE Disney Channel
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/2254.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,DE Cartoon Network
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/2255.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,DE  KIKA
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/2256.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,------ INFORMATION ------
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/2257.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,DE  N24
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/2258.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,DE  N-TV
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/2259.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,DE Euronews
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/2260.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,------ PAY PER VIEW ------
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/2261.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,DE Sky Select 1 HD
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/2262.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,DE Sky Select 2 HD
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/2263.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,DE Sky Select 3 HD
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/2264.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,DE Sky Select 4 HD
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/2265.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,DE Sky Select 5 HD
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/2266.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,DE Sky Select 6 HD
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/2267.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,DE Sky Select 7
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/2268.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,DE Sky Select 8
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/2269.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,DE Sky Select 9
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/2270.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,DE Tele Club Sport 1 LIVE
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/2271.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,DE Tele Club Sport 1
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/2272.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,DE Tele Club Sport 2
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/2273.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,DE Tele Club Star
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/2274.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,DE Tele Club Prime
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/2275.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,DE Tele Club Cinema
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/2276.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,DE Tele Club Animal Planet
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/2277.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,DE Tele Club Disney Cinemagic
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/2278.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,DE Tele Club Discovey Channel
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/2279.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,- - - - - UNITED KINGDOM - - - - -
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/459.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,- - - - - - PRIMAFILA - - - - - -
+plugin://plugin.video.f4mTester/?url=http://iptv.proff.co:15003/live/ziociro22/CYThWoUiiK/165.ts&amp;streamtype=TSDOWNLOADER
+
