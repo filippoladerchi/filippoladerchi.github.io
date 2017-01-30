@@ -1,4 +1,9 @@
-https://filippoladerchi.github.io/ItalyList_Iptvsource.m3u
-https://filippoladerchi.github.io/Italy_List_Redeneobux.m3u
-https://filippoladerchi.github.io/ItalyList_Iptvsatlinks.m3u
-https://filippoladerchi.github.io/ItalyList_Iptvsource.m3u
+#EXTM3U
+#EXTINF:-1,[COLOR blue][I][B]--- 25-01-2017 ---[/B][/I][/COLOR]
+#EXTINF:-1,
+
+------------------------------------------------------------------------------
+plugin://plugin.video.f4mTester/?url=https://filippoladerchi.github.io/ItalyList_Iptvsource.m3u&amp;streamtype=TSDOWNLOADER
+plugin://plugin.video.f4mTester/?url=https://filippoladerchi.github.io/Italy_List_Redeneobux.m3u&amp;streamtype=TSDOWNLOADER
+plugin://plugin.video.f4mTester/?url=https://filippoladerchi.github.io/ItalyList_Iptvsatlinks.m3u&amp;streamtype=TSDOWNLOADER
+plugin://plugin.video.f4mTester/?url=https://filippoladerchi.github.io/ItalyList_Iptvsource.m3u&amp;streamtype=TSDOWNLOADER
