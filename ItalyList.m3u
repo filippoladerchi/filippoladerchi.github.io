@@ -1,13 +1,5 @@
-#EXTM3U
-#EXTINF:-1,[COLOR blue][I][B]--- 25-01-2017 ---[/B][/I][/COLOR]
-#EXTINF:-1,
-
-------------------------------------------------------------------------------
-#EXTINF:-1,ItalyList_Iptvsource
-plugin://plugin.video.f4mTester/?url=https://filippoladerchi.github.io/ItalyList_Iptvsource.m3u&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Italy_List_Redeneobux
-plugin://plugin.video.f4mTester/?url=https://filippoladerchi.github.io/Italy_List_Redeneobux.m3u&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,IT-ItalyList_Iptvsatlinks
-plugin://plugin.video.f4mTester/?url=https://filippoladerchi.github.io/ItalyList_Iptvsatlinks.m3u&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,IT-ItalyList_Iptvsource
-plugin://plugin.video.f4mTester/?url=https://filippoladerchi.github.io/ItalyList_Iptvsource.m3u&amp;streamtype=TSDOWNLOADER
+#EXTM3U tvg-shift=3
+#EXTINF:-1 tvg-id="id1" tvg-name="hbo" tvg-logo="logo1" group-title="Group 1",hbo
+https://filippoladerchi.github.io/ItalyList_Iptvsource.m3u
+#EXTINF:-1 tvg-id="id1" tvg-name="hbo2" tvg-logo="logo1" group-title="Group 1",hbo2
+https://filippoladerchi.github.io/Italy_List_Redeneobux.m3u
