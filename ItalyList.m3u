@@ -3,7 +3,11 @@
 #EXTINF:-1,
 
 ------------------------------------------------------------------------------
+#EXTINF:-1,ItalyList_Iptvsource
 plugin://plugin.video.f4mTester/?url=https://filippoladerchi.github.io/ItalyList_Iptvsource.m3u&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,Italy_List_Redeneobux
 plugin://plugin.video.f4mTester/?url=https://filippoladerchi.github.io/Italy_List_Redeneobux.m3u&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT-ItalyList_Iptvsatlinks
 plugin://plugin.video.f4mTester/?url=https://filippoladerchi.github.io/ItalyList_Iptvsatlinks.m3u&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT-ItalyList_Iptvsource
 plugin://plugin.video.f4mTester/?url=https://filippoladerchi.github.io/ItalyList_Iptvsource.m3u&amp;streamtype=TSDOWNLOADER
