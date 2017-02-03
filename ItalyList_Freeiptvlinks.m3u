@@ -1,201 +1,503 @@
 #EXTM3U
-#EXTINF:-1,[COLOR blue][I]--- 01-02-2017 ---[/I][/COLOR]
+#EXTINF:-1,[COLOR blue][I]--- 03-02-2017 ---[/I][/COLOR]
 #EXTINF:-1,
 
 #EXTINF:-1,[COLOR green][I][B]--- Freeiptvlinks --- ONLINE[/B][/I][/COLOR]
 #EXTINF:-1,
 
-------------------------------------------------------------------------------
 
-#EXTINF:-1,*-*-*-*-*_Italian_*-*-*-*-*
-http://bechatv.pro/229988547/51251O5478/promo.flv
-#EXTINF:-1,IT_Sky_Calcio_1_HD
-plugin://plugin.video.f4mTester/?url=http://becha-tv.ddns.net:8000/live/chahid/6oF0agtWLV/849.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,IT_Sky_Calcio_2_HD
-plugin://plugin.video.f4mTester/?url=http://becha-tv.ddns.net:8000/live/chahid/6oF0agtWLV/850.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,IT_Sky_Calcio_3_HD
-plugin://plugin.video.f4mTester/?url=http://becha-tv.ddns.net:8000/live/chahid/6oF0agtWLV/851.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,IT_Sky_Calcio_4_HD
-plugin://plugin.video.f4mTester/?url=http://becha-tv.ddns.net:8000/live/chahid/6oF0agtWLV/852.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,IT_Sky_Calcio_5_HD
-plugin://plugin.video.f4mTester/?url=http://becha-tv.ddns.net:8000/live/chahid/6oF0agtWLV/853.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,IT_Sky_Calcio_6_HD
-plugin://plugin.video.f4mTester/?url=http://becha-tv.ddns.net:8000/live/chahid/6oF0agtWLV/854.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,IT_Sky_Calcio_7_HD
-plugin://plugin.video.f4mTester/?url=http://becha-tv.ddns.net:8000/live/chahid/6oF0agtWLV/855.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,IT_Premium_Calcio_1
-plugin://plugin.video.f4mTester/?url=http://becha-tv.ddns.net:8000/live/chahid/6oF0agtWLV/839.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,IT_Premium_Calcio_2
-plugin://plugin.video.f4mTester/?url=http://becha-tv.ddns.net:8000/live/chahid/6oF0agtWLV/840.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,IT_Premium_Calcio_3
-plugin://plugin.video.f4mTester/?url=http://becha-tv.ddns.net:8000/live/chahid/6oF0agtWLV/841.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,IT_Premium_Calcio_4
-plugin://plugin.video.f4mTester/?url=http://becha-tv.ddns.net:8000/live/chahid/6oF0agtWLV/842.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,IT_Premium_Calcio_5
-plugin://plugin.video.f4mTester/?url=http://becha-tv.ddns.net:8000/live/chahid/6oF0agtWLV/843.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,IT_Premium_Calcio_6
-plugin://plugin.video.f4mTester/?url=http://becha-tv.ddns.net:8000/live/chahid/6oF0agtWLV/844.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,IT_Sky_Cinema_HD
-plugin://plugin.video.f4mTester/?url=http://becha-tv.ddns.net:8000/live/chahid/6oF0agtWLV/829.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,IT_Sky_Cinema_1_HD
-plugin://plugin.video.f4mTester/?url=http://becha-tv.ddns.net:8000/live/chahid/6oF0agtWLV/827.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,IT_Sky_Cinema_24_HD
-plugin://plugin.video.f4mTester/?url=http://becha-tv.ddns.net:8000/live/chahid/6oF0agtWLV/828.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,IT_Sky_Cinema_Max_HD
-plugin://plugin.video.f4mTester/?url=http://becha-tv.ddns.net:8000/live/chahid/6oF0agtWLV/832.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,IT_Sky_Cinema_Hits_HD
-plugin://plugin.video.f4mTester/?url=http://becha-tv.ddns.net:8000/live/chahid/6oF0agtWLV/831.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,IT_Sky_Cinema_Family_HD
-plugin://plugin.video.f4mTester/?url=http://becha-tv.ddns.net:8000/live/chahid/6oF0agtWLV/830.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,IT_Sky_Cinema_Passion_HD
-plugin://plugin.video.f4mTester/?url=http://becha-tv.ddns.net:8000/live/chahid/6oF0agtWLV/833.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,IT_Sky_Uno_HD
-plugin://plugin.video.f4mTester/?url=http://becha-tv.ddns.net:8000/live/chahid/6oF0agtWLV/835.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,IT_Premium_Cinema_HD
-plugin://plugin.video.f4mTester/?url=http://becha-tv.ddns.net:8000/live/chahid/6oF0agtWLV/811.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,IT_Premium_Cinema_2_HD
-plugin://plugin.video.f4mTester/?url=http://becha-tv.ddns.net:8000/live/chahid/6oF0agtWLV/813.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,IT_Premium_Cinema_24_HD
-plugin://plugin.video.f4mTester/?url=http://becha-tv.ddns.net:8000/live/chahid/6oF0agtWLV/812.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,IT_Premium_Cinema_2_24
-plugin://plugin.video.f4mTester/?url=http://becha-tv.ddns.net:8000/live/chahid/6oF0agtWLV/814.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,IT_Premium_Cinema_Energy
-plugin://plugin.video.f4mTester/?url=http://becha-tv.ddns.net:8000/live/chahid/6oF0agtWLV/821.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,IT_Premium_Cinema_Emotion
-plugin://plugin.video.f4mTester/?url=http://becha-tv.ddns.net:8000/live/chahid/6oF0agtWLV/820.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,IT_Premium_Cinema_Comedy
-plugin://plugin.video.f4mTester/?url=http://becha-tv.ddns.net:8000/live/chahid/6oF0agtWLV/819.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,IT_Premium_Top_Crime_HD
-plugin://plugin.video.f4mTester/?url=http://becha-tv.ddns.net:8000/live/chahid/6oF0agtWLV/818.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,IT_Premium_Studio_Universal
-plugin://plugin.video.f4mTester/?url=http://becha-tv.ddns.net:8000/live/chahid/6oF0agtWLV/825.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,IT_Premium_Stories
-plugin://plugin.video.f4mTester/?url=http://becha-tv.ddns.net:8000/live/chahid/6oF0agtWLV/824.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,IT_Premium_joi
-plugin://plugin.video.f4mTester/?url=http://becha-tv.ddns.net:8000/live/chahid/6oF0agtWLV/823.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,IT_Premium_Crime_HD
-plugin://plugin.video.f4mTester/?url=http://becha-tv.ddns.net:8000/live/chahid/6oF0agtWLV/815.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,IT_Premium_Crime_24_HD
-plugin://plugin.video.f4mTester/?url=http://becha-tv.ddns.net:8000/live/chahid/6oF0agtWLV/816.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,IT_Premium_Canale_7_HD
-plugin://plugin.video.f4mTester/?url=http://becha-tv.ddns.net:8000/live/chahid/6oF0agtWLV/826.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,IT_Premium_Sport_HD
-plugin://plugin.video.f4mTester/?url=http://becha-tv.ddns.net:8000/live/chahid/6oF0agtWLV/837.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,IT_Premium_Calcio_HD
-plugin://plugin.video.f4mTester/?url=http://becha-tv.ddns.net:8000/live/chahid/6oF0agtWLV/838.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,IT_Premium_Action_HD
-plugin://plugin.video.f4mTester/?url=http://becha-tv.ddns.net:8000/live/chahid/6oF0agtWLV/817.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,IT_Sky_fox_Comedy_HD
-plugin://plugin.video.f4mTester/?url=http://becha-tv.ddns.net:8000/live/chahid/6oF0agtWLV/834.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,IT_Sky_Discovery_HD
-plugin://plugin.video.f4mTester/?url=http://becha-tv.ddns.net:8000/live/chahid/6oF0agtWLV/872.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,IT_RSI_La_2_HD
-plugin://plugin.video.f4mTester/?url=http://becha-tv.ddns.net:8000/live/chahid/6oF0agtWLV/875.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,IT_RSI_La_1_HD
-plugin://plugin.video.f4mTester/?url=http://becha-tv.ddns.net:8000/live/chahid/6oF0agtWLV/874.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,IT_Rete_4_HD
-plugin://plugin.video.f4mTester/?url=http://becha-tv.ddns.net:8000/live/chahid/6oF0agtWLV/859.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,IT_Real_Time_1
-plugin://plugin.video.f4mTester/?url=http://becha-tv.ddns.net:8000/live/chahid/6oF0agtWLV/866.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,IT_Real_Time
-plugin://plugin.video.f4mTester/?url=http://becha-tv.ddns.net:8000/live/chahid/6oF0agtWLV/865.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,IT_Super_Tenis_HD
-plugin://plugin.video.f4mTester/?url=http://becha-tv.ddns.net:8000/live/chahid/6oF0agtWLV/848.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,IT_Rai_Sport_1
-plugin://plugin.video.f4mTester/?url=http://becha-tv.ddns.net:8000/live/chahid/6oF0agtWLV/876.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,IT_Sky_Sport_1
-plugin://plugin.video.f4mTester/?url=http://becha-tv.ddns.net:8000/live/chahid/6oF0agtWLV/846.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,IT_Sky_Sport_2_HD
-plugin://plugin.video.f4mTester/?url=http://becha-tv.ddns.net:8000/live/chahid/6oF0agtWLV/845.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,IT_SKY_Sport3
-plugin://plugin.video.f4mTester/?url=http://becha-tv.ddns.net:8000/live/chahid/6oF0agtWLV/847.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,IT_National_Geo_HD
-plugin://plugin.video.f4mTester/?url=http://becha-tv.ddns.net:8000/live/chahid/6oF0agtWLV/870.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,IT_NatGeo_People_HD
-plugin://plugin.video.f4mTester/?url=http://becha-tv.ddns.net:8000/live/chahid/6oF0agtWLV/869.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,IT_Nat_Geo_Wild
-plugin://plugin.video.f4mTester/?url=http://becha-tv.ddns.net:8000/live/chahid/6oF0agtWLV/868.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,IT_Mediaset_1_HD
-plugin://plugin.video.f4mTester/?url=http://becha-tv.ddns.net:8000/live/chahid/6oF0agtWLV/857.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,IT_La_5_HD
-plugin://plugin.video.f4mTester/?url=http://becha-tv.ddns.net:8000/live/chahid/6oF0agtWLV/860.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,IT_Fox_Life_HD
-plugin://plugin.video.f4mTester/?url=http://becha-tv.ddns.net:8000/live/chahid/6oF0agtWLV/836.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,IT_DMAX_HD
-plugin://plugin.video.f4mTester/?url=http://becha-tv.ddns.net:8000/live/chahid/6oF0agtWLV/862.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,IT_Disney_Chanel
-plugin://plugin.video.f4mTester/?url=http://becha-tv.ddns.net:8000/live/chahid/6oF0agtWLV/871.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,IT_Discovery_Sci_HD
-plugin://plugin.video.f4mTester/?url=http://becha-tv.ddns.net:8000/live/chahid/6oF0agtWLV/867.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,IT_DeejayTV_NOVE
-plugin://plugin.video.f4mTester/?url=http://becha-tv.ddns.net:8000/live/chahid/6oF0agtWLV/864.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,IT_Canale_7
-plugin://plugin.video.f4mTester/?url=http://becha-tv.ddns.net:8000/live/chahid/6oF0agtWLV/861.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,IT_Canale_5_HD
-plugin://plugin.video.f4mTester/?url=http://becha-tv.ddns.net:8000/live/chahid/6oF0agtWLV/858.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,IT_Alice
-plugin://plugin.video.f4mTester/?url=http://becha-tv.ddns.net:8000/live/chahid/6oF0agtWLV/856.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,IT_Sky_Tg24
-plugin://plugin.video.f4mTester/?url=http://becha-tv.ddns.net:8000/live/chahid/6oF0agtWLV/144.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,IT_Rai_Yoyo
-plugin://plugin.video.f4mTester/?url=http://becha-tv.ddns.net:8000/live/chahid/6oF0agtWLV/142.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,IT_Rai_Premium
-plugin://plugin.video.f4mTester/?url=http://becha-tv.ddns.net:8000/live/chahid/6oF0agtWLV/140.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,IT_Rai_News
-plugin://plugin.video.f4mTester/?url=http://becha-tv.ddns.net:8000/live/chahid/6oF0agtWLV/143.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,IT_Rai_Movie
-plugin://plugin.video.f4mTester/?url=http://becha-tv.ddns.net:8000/live/chahid/6oF0agtWLV/139.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,IT_Rai_Gulp
-plugin://plugin.video.f4mTester/?url=http://becha-tv.ddns.net:8000/live/chahid/6oF0agtWLV/141.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,IT_Rai_1
-plugin://plugin.video.f4mTester/?url=http://becha-tv.ddns.net:8000/live/chahid/6oF0agtWLV/135.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,IT_Rai_2
-plugin://plugin.video.f4mTester/?url=http://becha-tv.ddns.net:8000/live/chahid/6oF0agtWLV/136.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,IT_Rai_3
-plugin://plugin.video.f4mTester/?url=http://becha-tv.ddns.net:8000/live/chahid/6oF0agtWLV/137.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,IT_Rai_4
-plugin://plugin.video.f4mTester/?url=http://becha-tv.ddns.net:8000/live/chahid/6oF0agtWLV/138.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,IT_La7
-plugin://plugin.video.f4mTester/?url=http://becha-tv.ddns.net:8000/live/chahid/6oF0agtWLV/148.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,IT_GALICIA_AMERICA
-plugin://plugin.video.f4mTester/?url=http://becha-tv.ddns.net:8000/live/chahid/6oF0agtWLV/145.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,IT_Euronews_IT
-plugin://plugin.video.f4mTester/?url=http://becha-tv.ddns.net:8000/live/chahid/6oF0agtWLV/150.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,IT_360_TV
-plugin://plugin.video.f4mTester/?url=http://becha-tv.ddns.net:8000/live/chahid/6oF0agtWLV/149.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,IT_PRIMAFILA_1_HD
-plugin://plugin.video.f4mTester/?url=http://becha-tv.ddns.net:8000/live/chahid/6oF0agtWLV/1296.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,IT_PRIMAFILA_2_HD
-plugin://plugin.video.f4mTester/?url=http://becha-tv.ddns.net:8000/live/chahid/6oF0agtWLV/1288.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,IT_PRIMAFILA_3_HD
-plugin://plugin.video.f4mTester/?url=http://becha-tv.ddns.net:8000/live/chahid/6oF0agtWLV/1287.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,IT_PRIMAFILA_4_HD
-plugin://plugin.video.f4mTester/?url=http://becha-tv.ddns.net:8000/live/chahid/6oF0agtWLV/1286.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,IT_PRIMAFILA_5_HD
-plugin://plugin.video.f4mTester/?url=http://becha-tv.ddns.net:8000/live/chahid/6oF0agtWLV/1285.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,IT_PRIMAFILA_6_HD
-plugin://plugin.video.f4mTester/?url=http://becha-tv.ddns.net:8000/live/chahid/6oF0agtWLV/1284.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,IT_PRIMAFILA_7_HD
-plugin://plugin.video.f4mTester/?url=http://becha-tv.ddns.net:8000/live/chahid/6oF0agtWLV/1283.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,IT_PRIMAFILA_8_HD
-plugin://plugin.video.f4mTester/?url=http://becha-tv.ddns.net:8000/live/chahid/6oF0agtWLV/1282.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,IT_PRIMAFILA_9_HD
-plugin://plugin.video.f4mTester/?url=http://becha-tv.ddns.net:8000/live/chahid/6oF0agtWLV/1281.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,IT_PRIMAFILA_10_HD
-plugin://plugin.video.f4mTester/?url=http://becha-tv.ddns.net:8000/live/chahid/6oF0agtWLV/1295.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,IT_PRIMAFILA_11_HD
-plugin://plugin.video.f4mTester/?url=http://becha-tv.ddns.net:8000/live/chahid/6oF0agtWLV/1294.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,IT_PRIMAFILA_12_HD
-plugin://plugin.video.f4mTester/?url=http://becha-tv.ddns.net:8000/live/chahid/6oF0agtWLV/1293.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,IT_PRIMAFILA_13_HD
-plugin://plugin.video.f4mTester/?url=http://becha-tv.ddns.net:8000/live/chahid/6oF0agtWLV/1292.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,IT_PRIMAFILA_14_HD
-plugin://plugin.video.f4mTester/?url=http://becha-tv.ddns.net:8000/live/chahid/6oF0agtWLV/1291.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,IT_PRIMAFILA_15_HD
-plugin://plugin.video.f4mTester/?url=http://becha-tv.ddns.net:8000/live/chahid/6oF0agtWLV/1290.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,IT_PRIMAFILA_16_HD
-plugin://plugin.video.f4mTester/?url=http://becha-tv.ddns.net:8000/live/chahid/6oF0agtWLV/1289.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,IT_PRIMAFILA_17_HD
-plugin://plugin.video.f4mTester/?url=http://becha-tv.ddns.net:8000/live/chahid/6oF0agtWLV/1961.ts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,IT_PRIMAFILA_18_HD
-plugin://plugin.video.f4mTester/?url=http://becha-tv.ddns.net:8000/live/chahid/6oF0agtWLV/1962.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,------ ITALY ------
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/2914.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,VIP IT: Sky Sport 1 HD
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/9004.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,VIP IT: Sky Sport 2 HD
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/9003.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,VIP IT: Sky Sport 3 HD
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/9001.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,VIP IT: Sky Sport 24 HD
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/9002.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,VIP IT: Sky Super Calcio HD
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/8981.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,VIP IT: Fox Sports HD
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/1410.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,VIP IT: Sky Sport Plus HD
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/17060.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,VIP IT: Sky Supercalcio HD
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/9000.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,VIP IT: Sky Calcio 1 HD
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/9014.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,VIP IT: Sky Calcio 2 HD
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/9128.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,VIP IT: Sky Calcio 3 HD
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/10504.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,VIP IT: Sky F1 HD
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/9017.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,VIP IT: Sky Moto GP HD
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/9005.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,VIP IT: WWE HD PPV
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/9088.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,VIP IT: Premium Sport HD
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/9058.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,VIP IT: Premium Sport 2 HD
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/6801.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,VIP IT: Premium Sport 2
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/9089.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,VIP IT: Eurosport 1 HD
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/9056.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,VIP IT: Eurosport 2 HD
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/9057.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,VIP IT: Sky Calcio 1 HD (ATTIVO 10 MIN. PRIMA DELLA PARTITA)
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/10701.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,VIP IT: Sky Calcio 2 HD (ATTIVO 10 MIN. PRIMA DELLA PARTITA)
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/10700.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,VIP IT: Sky Calcio 3 HD (ATTIVO 10 MIN. PRIMA DELLA PARTITA)
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/10699.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,VIP IT: Sky Calcio 4 HD (ATTIVO 10 MIN. PRIMA DELLA PARTITA)
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/10698.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,VIP IT: Sky Calcio 5 HD (ATTIVO 10 MIN. PRIMA DELLA PARTITA)
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/10697.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,VIP IT: Sky Calcio 6 HD (ATTIVO 10 MIN. PRIMA DELLA PARTITA)
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/10696.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,VIP IT: Sky Calcio 7 HD
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/10695.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,VIP IT: Sky Calcio 8 HD
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/10694.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,VIP IT: Sky Calcio 9 HD
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/16278.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,VIP IT: Sky Calcio 10 HD
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/16279.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: Premium Sport 2
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/5302.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT-: Premium Calcio 1 HD
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/2724.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: Premium Calcio 1 HD
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/1404.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: Premium Calcio 1
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/1402.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: Premium Calcio 2
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/1401.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: Premium Calcio 3
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/1400.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: Premium Calcio 4
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/2106.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: Premium Calcio 5
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/2105.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: Premium Calcio 6
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/4050.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: Premium Calcio 7
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/5018.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: SUPER TENNIS HD
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/2939.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: SPORT ITALIA
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/1992.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: Automoto TV
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/10734.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: Inter Channel
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/13751.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: J-TV
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/14038.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: Lazio Channel
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/13749.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,VIP IT: INTER Channel
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/17263.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,VIP IT: MILAN TV
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/17264.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: Milan Channel
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/13750.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: Roma Channel
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/14037.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: Juventus Channel
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/12158.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,VIP IT: Bike Channel HD
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/16273.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,VIP IT: Sky 3D
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/17544.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,VIP IT: Sky Cinema Uno HD
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/9013.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,VIP IT: Sky Cinema+1 HD
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/8987.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,VIP IT: Sky Cinema +24 HD
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/8989.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,VIP IT: Sky Cinema Max HD
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/9008.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,VIP IT: Sky Cinema Max +1 HD
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/6888.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,VIP IT: Sky Cinema Hits HD
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/9009.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,VIP IT: Sky Cinema Family HD
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/9010.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,VIP IT: Sky Cinema Family +1 HD
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/6574.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,VIP IT: Sky Cinema Cult HD
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/9011.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,VIP IT: Sky Cinema Comedy HD
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/9012.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,VIP IT: Sky Cinema Classics HD
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/8996.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,VIP IT: Sky Cinema Passion HD
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/9007.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,VIP IT: Sky Atlantic HD
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/8986.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,VIP IT: Sky Atlantic +1
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/16264.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,VIP IT: Studio Universal
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/9074.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,VIP IT: Premium Cinema HD
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/9059.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,VIP IT: Premium Cinema  +24
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/9060.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,VIP IT: Premium Cinema  2 HD
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/9061.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,VIP IT: Premium Cinema 2  +24
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/9062.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,VIP IT: Premium Action HD
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/9064.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,VIP IT: Premium Action  +24
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/9065.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,VIP IT: Premium Stories
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/9071.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,VIP IT: Premium Stories  +24
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/9072.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,VIP IT: Premium Joi
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/9073.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,VIP IT: Premium Emotion
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/9068.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,VIP IT: Premium Crime HD
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/9066.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,VIP IT: Premium Crime  +24
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/9070.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,VIP IT: Premium Cinema Comedy
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/9069.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,VIP IT: Premium Cinema Energy HD
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/2262.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,VIP IT: Premium Animation HD
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/17545.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,VIP IT: Premium Animation +24
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/17546.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,VIP IT: Sky Uno HD
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/8999.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,VIP IT: Sky Uno +1 HD
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/16263.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,VIP IT: Italia 1 HD
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/9018.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,VIP IT: Rete 4 HD
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/9019.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,VIP IT: Canale 5 HD
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/9020.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,VIP IT: Fox HD
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/9016.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,VIP IT: FOX +1 HD
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/16265.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,VIP IT: Fox Life HD
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/9006.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,VIP IT: Fox Life +1
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/16268.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,VIP IT: Fox Crime HD
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/9026.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,VIP IT: Fox Crime +1
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/16266.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,VIP IT: Fox Comedy HD
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/9025.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,VIP IT: Fox Comedy +1 HD
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/16267.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,VIP IT: Fox Animation HD
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/5010.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,VIP IT: Comedy Central
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/16270.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,VIP IT: AXN HD
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/16269.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,VIP IT: AXN SCI-FI
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/9043.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,VIP IT: TV8
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/8997.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: Laeffe
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/16952.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,VIP IT: DEEJAY TV NOVE
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/8998.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,VIP IT: Paramount Channel HD
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/9063.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,VIP IT: La7D HD
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/9029.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,VIP IT: La7 HD
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/9028.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,VIP IT: La5
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/9027.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: Rai 1 HD (1080P)
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/15616.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: RAI 1 HD
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/2963.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: Rai 2 HD (1080P)
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/15617.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: RAI 2 HD
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/2962.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: Rai 3 HD (1080P)
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/15618.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: RAI 3 HD
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/4162.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: Rai 4 HD (1080P)
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/15619.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: Rai 4 HD
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/4161.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: Rai 5 HD (1080P)
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/15620.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: Rai 5
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/3569.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,VIP IT: Rai Movies HD
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/11377.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,VIP IT: Rai Movie HD
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/17641.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,VIP IT: Rai Premium HD
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/17643.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,VIP IT: Rai Premium
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/9124.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,VIP IT: Rai Gulp HD
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/17642.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,VIP IT: Rai News 24 HD
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/17640.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,VIP IT: Rai Scuola HD
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/17639.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,VIP IT: Rai Storia HD
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/17636.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,VIP IT: Rai Yoyo HD
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/17635.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,VIP IT: RSI LA1 HD
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/9087.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,VIP IT: RSI LA2 HD
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/9086.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,VIP IT: Real Time HD
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/9041.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,VIP IT: Real Time +1 HD
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/16271.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,VIP IT: Rai Sport 1 HD
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/17638.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,VIP IT: Rai Sport 2
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/17637.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,VIP IT: DMAX HD
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/9051.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,VIP IT: Dmax +1
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/16275.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,VIP IT: National Geographic HD
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/9048.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,VIP IT: NatGeo Wild HD
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/9047.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,VIP IT: NatGeo People HD
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/9049.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,VIP IT: Discovery HD
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/9044.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,VIP IT: Discovery Sci HD
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/9046.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,VIP IT: Discovery Travel&Living HD
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/9045.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,VIP IT: Crime Investigation HD
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/9321.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,VIP IT: Investigation Discovery HD
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/16272.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,VIP IT: Discovery Travel & Living HD
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/4415.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,VIP IT: Sky Arte HD
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/8995.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: HISTORY HD
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/4423.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: Gambero Rosso HD
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/5733.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: Animal Planet
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/2779.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: FINE LIVING
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/4566.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,VIP IT: Italian Fishing
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/16274.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,VIP IT: Caccia e Pesca
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/9053.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,VIP IT: PESCA e Caccia
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/9090.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,VIP IT: VH1
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/9319.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT-: Premium Sport HD
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/2723.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: M2O TV
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/2794.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: Canale 8
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/3570.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: ITALIA 1 HD
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/2177.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: Premium Emotion
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/4228.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: Mediaset Extra
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/2969.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: Mediaset Italia 2
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/2793.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: Premium Top Crime
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/2807.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: Alice
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/4098.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: Nuvolari
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/4417.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: Marco Polo
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/4780.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: E! Entertainment
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/6887.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: m2o
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/6895.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: TV GLOBO
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/7392.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: Videolina
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/7394.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: Iris
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/5003.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: Focus
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/4420.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: Discovery Science HD
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/4413.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: Cielo HD
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/4412.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: RAI Sport 1 HD
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/2002.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: RAI sport 2
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/2001.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: RAI PREMIUM
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/2004.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: RAI NEWS 24
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/2005.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: Rai yoyo
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/5016.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: RAI GULP
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/2007.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,VIP IT: Disney Channel HD
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/9055.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: Disney Channel+1
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/6894.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,VIP IT: Disney Junior
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/16276.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: Disney XD
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/2785.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: CARTOONITO
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/2782.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: CARTOON NETWORK
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/2781.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: Boing
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/3947.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: Super !
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/4092.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: Frisbee
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/4158.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: K2
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/4419.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,VIP IT: Masha e L'Orso Channel ( kids )
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/16277.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: Giallo
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/4569.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: SKY TG24 HD
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/1995.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: Mediaset TGCOM 24
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/5432.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: TG NOBRA 24
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/5303.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT 2: Fox Sports 1 HD
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/17840.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: Eurosport 1 HD
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/4094.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: FOX SPORTS PLUS HD
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/3345.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: MTV 8 Musica
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/18175.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: MTV Brand New
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/18177.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: MTV Dance
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/18183.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: MTV Live HD
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/18176.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: RADIO 105 TV
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/18182.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: RADIO MONTE CARLO TV
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/18181.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: RADIO NORBA TV
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/18180.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: RADIO VIRGIN TV
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/18179.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: RTL 102.5
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/18178.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: SKY CINEMA HITS HD
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/2181.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: VH1
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/18174.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: Virgin Radio TV
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/18173.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT 2: Sky Supercalcio HD
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/17850.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT 2: Sky Calcio 1 HD
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/17851.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT 2: Sky Calcio 2 HD
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/17852.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT 2: Sky Calcio 3 HD
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/17853.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT 2: Sky Calcio 4 HD
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/17854.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT 2: Sky Calcio 5 HD
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/17855.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT 2: Sky Calcio 6 HD
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/17856.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT 2: Sky Calcio 7 HD
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/17857.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT 2: Sport Virtuali 2
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/17839.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,=======   VOD IT  =======
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/16280.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,VOD IT: 1 HD
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/16281.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,VOD IT: 2 HD
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/16282.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,VOD IT: 3 HD
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/16283.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,VOD IT: 4 HD
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/16284.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,VOD IT: 5 HD
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/16285.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,VOD IT: 6 HD
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/16286.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,VOD IT: 7 HD
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/16287.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,VOD IT: 8 HD
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/16288.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,VOD IT: 9 HD
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/16289.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,VOD IT: 10 HD
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/16290.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,VOD IT: 11 HD
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/16291.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: PRIMAFILA 1 HD
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/11560.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: PRIMAFILA 2 HD
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/11561.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: PRIMAFILA 3 HD
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/11562.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: PRIMAFILA 4 HD
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/11563.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: PRIMAFILA 5 HD
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/11564.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: PRIMAFILA 6 HD
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/11565.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: PRIMAFILA 7 HD
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/11566.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: PRIMAFILA 8 HD
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/11567.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: PRIMAFILA 9 HD
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/11568.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: PRIMAFILA 10 HD
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/11569.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: PRIMAFILA 11 HD
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/11570.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: PRIMAFILA 12 HD
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/11571.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: PRIMAFILA 13 HD
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/11572.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: PRIMAFILA 14 HD
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/11573.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: PRIMAFILA 15 HD
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/11574.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: PRIMAFILA 16-17 HD
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/11575.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: PRIMAFILA 18 HD
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/11576.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,IT: PRIMAFILA 19 HD
+plugin://plugin.video.f4mTester/?url=http://51.255.89.184:8080/live/715nad2309vc/1iyEB9qqti/11577.ts&amp;streamtype=TSDOWNLOADER
+
