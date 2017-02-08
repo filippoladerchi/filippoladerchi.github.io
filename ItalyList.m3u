@@ -622,7 +622,7 @@ plugin://plugin.video.f4mTester/?url=http://93.190.143.200:15000/live/lhtdhzdj/u
 #EXTINF:-1,Primafila 16 HD
 http://93.190.143.200:15000/movie/lhtdhzdj/uU7p4oP3g3/4061.mkv
 #EXTINF:-1,Trailer Primafila 15/16
-plugin://plugin.video.f4mTester/?url=http://93.190.143.200:15000/movie/lhtdhzdj/uU7p4oP3g3/12066.mp4
+http://93.190.143.200:15000/movie/lhtdhzdj/uU7p4oP3g3/12066.mp4
 #EXTINF:-1,Primafila 17 HD
 plugin://plugin.video.f4mTester/?url=http://93.190.143.200:15000/live/lhtdhzdj/uU7p4oP3g3/3228.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,Primafila 18 HD
