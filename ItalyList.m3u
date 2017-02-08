@@ -580,43 +580,43 @@ plugin://plugin.video.f4mTester/?url=http://93.190.143.200:15000/live/lhtdhzdj/u
 #EXTINF:-1,Primafila 2 HD
 http://93.190.143.200:15000/movie/lhtdhzdj/uU7p4oP3g3/4054.mkv
 #EXTINF:-1,Trailer Primafila 1/2
-plugin://plugin.video.f4mTester/?url=http://93.190.143.200:15000/movie/lhtdhzdj/uU7p4oP3g3/12059.mp4
+http://93.190.143.200:15000/movie/lhtdhzdj/uU7p4oP3g3/12059.mp4
 #EXTINF:-1,Primafila 3 HD
 plugin://plugin.video.f4mTester/?url=http://93.190.143.200:15000/live/lhtdhzdj/uU7p4oP3g3/37.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,Primafila 4 HD
 http://93.190.143.200:15000/movie/lhtdhzdj/uU7p4oP3g3/4055.mkv
 #EXTINF:-1,Trailer Primafila 3/4
-plugin://plugin.video.f4mTester/?url=http://93.190.143.200:15000/movie/lhtdhzdj/uU7p4oP3g3/12060.mp4
+http://93.190.143.200:15000/movie/lhtdhzdj/uU7p4oP3g3/12060.mp4
 #EXTINF:-1,Primafila 5 HD
 plugin://plugin.video.f4mTester/?url=http://93.190.143.200:15000/live/lhtdhzdj/uU7p4oP3g3/39.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,Primafila 6 HD
 http://93.190.143.200:15000/movie/lhtdhzdj/uU7p4oP3g3/4056.mkv
 #EXTINF:-1,Trailer Primafila 5/6
-plugin://plugin.video.f4mTester/?url=http://93.190.143.200:15000/movie/lhtdhzdj/uU7p4oP3g3/12061.mp4
+http://93.190.143.200:15000/movie/lhtdhzdj/uU7p4oP3g3/12061.mp4
 #EXTINF:-1,Primafila 7 HD
 plugin://plugin.video.f4mTester/?url=http://93.190.143.200:15000/live/lhtdhzdj/uU7p4oP3g3/41.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,Primafila 8 HD
 http://93.190.143.200:15000/movie/lhtdhzdj/uU7p4oP3g3/4057.mkv
 #EXTINF:-1,Trailer Primafila 7/8
-plugin://plugin.video.f4mTester/?url=http://93.190.143.200:15000/movie/lhtdhzdj/uU7p4oP3g3/12062.mp4
+http://93.190.143.200:15000/movie/lhtdhzdj/uU7p4oP3g3/12062.mp4
 #EXTINF:-1,Primafila 9 HD
 plugin://plugin.video.f4mTester/?url=http://93.190.143.200:15000/live/lhtdhzdj/uU7p4oP3g3/43.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,Primafila 10 HD
 http://93.190.143.200:15000/movie/lhtdhzdj/uU7p4oP3g3/4058.mkv
 #EXTINF:-1,Trailer Primafila 9/10
-plugin://plugin.video.f4mTester/?url=http://93.190.143.200:15000/movie/lhtdhzdj/uU7p4oP3g3/12063.mp4
+http://93.190.143.200:15000/movie/lhtdhzdj/uU7p4oP3g3/12063.mp4
 #EXTINF:-1,Primafila 11 HD
 plugin://plugin.video.f4mTester/?url=http://93.190.143.200:15000/live/lhtdhzdj/uU7p4oP3g3/521.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,Primafila 12 HD
 http://93.190.143.200:15000/movie/lhtdhzdj/uU7p4oP3g3/4059.mkv
 #EXTINF:-1,Trailer Primafila 11/12
-plugin://plugin.video.f4mTester/?url=http://93.190.143.200:15000/movie/lhtdhzdj/uU7p4oP3g3/12064.mp4
+http://93.190.143.200:15000/movie/lhtdhzdj/uU7p4oP3g3/12064.mp4
 #EXTINF:-1,Primafila 13 HD
 plugin://plugin.video.f4mTester/?url=http://93.190.143.200:15000/live/lhtdhzdj/uU7p4oP3g3/3226.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,Primafila 14 HD
 http://93.190.143.200:15000/movie/lhtdhzdj/uU7p4oP3g3/4060.mkv
 #EXTINF:-1,Trailer Primafila 13/14
-plugin://plugin.video.f4mTester/?url=http://93.190.143.200:15000/movie/lhtdhzdj/uU7p4oP3g3/12065.mp4
+http://93.190.143.200:15000/movie/lhtdhzdj/uU7p4oP3g3/12065.mp4
 #EXTINF:-1,Primafila 15 HD
 plugin://plugin.video.f4mTester/?url=http://93.190.143.200:15000/live/lhtdhzdj/uU7p4oP3g3/3227.ts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,Primafila 16 HD
